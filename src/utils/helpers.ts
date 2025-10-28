@@ -208,7 +208,6 @@ export const resumeObj = {
         "Designed a clean, professional interface that effectively showcases the company’s services, equipment categories, and contact channels.",
         "Utilized HTML, CSS, JavaScript, and GSAP to create smooth scroll animations, engaging transitions, and a dynamic homepage that visually communicates the brand’s industrial identity.",
         "Integrated product showcase sections to improve lead generation and client interaction.",
-        "Contributed to the design and implementation of key features for improving church administrative workflows.",
         "Ensured high performance and responsiveness of the application across a wide range of devices and browsers.",
       ],
     },
