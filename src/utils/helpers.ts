@@ -53,7 +53,7 @@ export const projects = [
     description:
       "A centralized event management platform where users can buy, resell, and manage tickets. The backend handles wallet funding, payment verification, ticket transactions, and payout flows. Built to support scalable and secure event experiences.",
     isPrivate: true,
-    liveLink: "",
+    liveLink: "https://www.ticketer.africa/",
     github: "",
     stack: "NestJS + Prisma + PostgreSQL + NextJS",
     featured: true,
@@ -86,7 +86,7 @@ export const projects = [
     description:
       "A seamless online food delivery platform connecting customers with their favorite restaurants and local vendors. It focuses on delivering a smooth ordering experience, fast delivery, and access to a wide variety of delicious meals — all in one place.",
     isPrivate: true,
-    liveLink: "https://food-ordering-appp.vercel.app/",
+    liveLink: "https://choweazy.vercel.app/",
     github: "",
     stack: "NextJS + TailwindCSS + KoraPay + PostgreSQL",
     featured: false,
