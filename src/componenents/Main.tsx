@@ -90,6 +90,7 @@ export default function Main({ children, theme, toggleTheme }: Props) {
             </SideBarAvatarContainer>
             <SidebarSocials>
               {ContactLinks.map((contact, i) => {
+                const Icon = contact.Icon;
                 return (
                   <a
                     id={`${i}`}
@@ -100,7 +101,7 @@ export default function Main({ children, theme, toggleTheme }: Props) {
                     rel="noopener noreferrer"
                   >
                     <span className="icon icon--lg">
-                      <contact.Icon />
+                      {Icon && <Icon />}
                     </span>
                     <span className="text">{contact.name}</span>
                     <span className="icon icon--sm">
