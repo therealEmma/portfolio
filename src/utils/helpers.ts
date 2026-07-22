@@ -32,6 +32,17 @@ export const NavLinks = [
 ];
 
 export const ContactLinks = [
+    {
+    id: uuid(),
+    title: "Choweazy",
+    description:
+      "A seamless online food delivery platform connecting customers with their favorite restaurants and local vendors. It focuses on delivering a smooth ordering experience, fast delivery, and access to a wide variety of delicious meals — all in one place.",
+    isPrivate: true,
+    liveLink: "https://choweazy.com",
+    github: "",
+    stack: "NextJS + TailwindCSS + Paystack + PostgreSQL",
+    featured: false,
+  },
   {
     id: uuid(),
     name: "github",
@@ -80,17 +91,7 @@ export const projects = [
     stack: "ReactJs + TailwindCSS + Flask",
     featured: true,
   },
-  {
-    id: uuid(),
-    title: "Food delivery Platform",
-    description:
-      "A seamless online food delivery platform connecting customers with their favorite restaurants and local vendors. It focuses on delivering a smooth ordering experience, fast delivery, and access to a wide variety of delicious meals — all in one place.",
-    isPrivate: true,
-    liveLink: "https://choweazy.vercel.app/",
-    github: "",
-    stack: "NextJS + TailwindCSS + KoraPay + PostgreSQL",
-    featured: false,
-  },
+
   {
     id: uuid(),
     title: "Quiz Application",
