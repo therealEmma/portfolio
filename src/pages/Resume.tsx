@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet";
-import resume from "../assets/OZEGBE EMMANUEL RESUME Updated.pdf";
+import resume from "../assets/Ozegbe_Emmanue_Updated_CV.pdf";
 import { MenuButtonContainer, MenuButtonWrapper, MenuLink } from "../UI/Button";
 import {
   ActionButton,
@@ -65,7 +65,7 @@ const Resume = () => (
         <Title>Software Engineer - Frontend</Title>
         <Email>eozegbe68@gmail.com</Email>
         <Summary>
-          I'm a Software Engineer with a strong focus on frontend development. I prioritize building responsive, user-centric applications while ensuring seamless backend integrations for high-performance solutions.
+          I'm a Backend Software Engineer specializing in building scalable, high-performance server-side applications and APIs. I focus on designing reliable backend systems, integrating databases and third-party services, and developing secure, maintainable solutions that power seamless user experiences.
         </Summary>
         <Divider>
           <DividerTitle>Core Technologies</DividerTitle>

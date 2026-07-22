@@ -48,16 +48,13 @@ export default function Main({ children, theme, toggleTheme }: Props) {
   <SideBarBigHeading>Ozegbe Emmanuel.</SideBarBigHeading>
   <SideBarParagraphContainer>
     <SideBarParagraph>
-      I'm a <Highlight>Software Engineer</Highlight> and{" "}
-       I excel at building{" "}
-      <Highlight>user-centric applications</Highlight> that are{" "}
-      <Highlight>visually appealing</Highlight>, highly functional, and{" "}
-      <Highlight>secure</Highlight>. With expertise across the stack, I ensure{" "}
-      <Highlight>seamless frontend</Highlight>,{" "}
-      <Highlight>backend</Highlight>,
-       to deliver{" "}
-      <Highlight>top-tier experiences</Highlight>.
-    </SideBarParagraph>
+  I'm a <Highlight>Backend Software Engineer</Highlight> specializing in{" "}
+  <Highlight>scalable architecture</Highlight> and high-concurrency systems. I excel at designing{" "}
+  <Highlight>resilient RESTful APIs</Highlight>, modeling complex{" "}
+  <Highlight>relational databases</Highlight>, and integrating{" "}
+  <Highlight>secure payment workflows</Highlight>. With deep expertise across{" "}
+  <Highlight>Node.js, PostgreSQL, and Redis</Highlight>, I build the reliable infrastructure that powers seamless user experiences.
+</SideBarParagraph>
   </SideBarParagraphContainer>
 </SideBarHeader>
           <SideBarMenu>

@@ -93,7 +93,7 @@ export default function Menu() {
                   </span>
                 </a>
                 <a
-                  href="mailto:kareola960@gmail.com"
+                  href="mailto:eozegbe68@gmail.com"
                   className="socials__link"
                   target="_blank"
                   rel="noopener noreferrer"
