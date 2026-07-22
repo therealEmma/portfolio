@@ -62,7 +62,7 @@ const Resume = () => (
             </ActionButton>
           </Actions>
         </Header>
-        <Title>Software Engineer - Frontend</Title>
+        <Title>Software Engineer - Backend</Title>
         <Email>eozegbe68@gmail.com</Email>
         <Summary>
           I'm a Backend Software Engineer specializing in building scalable, high-performance server-side applications and APIs. I focus on designing reliable backend systems, integrating databases and third-party services, and developing secure, maintainable solutions that power seamless user experiences.
