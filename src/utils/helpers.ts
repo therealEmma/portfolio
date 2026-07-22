@@ -58,6 +58,17 @@ export const ContactLinks = [
 ];
 
 export const projects = [
+{
+    id: uuid(),
+    title: "Choweazy",
+    description:
+      "A hyper-local food delivery ecosystem connecting customers, local restaurants, and dispatch riders. The backend automates order lifecycle management, real-time WebSocket dispatch, automated 15% vendor commission splitting, and secure payment verification.",
+    isPrivate: true,
+    liveLink: "https://choweazy.com",
+    github: "",
+    stack: "Node.js + Express + PostgreSQL + Prisma + Socket.io + Redis",
+    featured: true,
+  },
   {
     id: uuid(),
     title: "Ticketer",

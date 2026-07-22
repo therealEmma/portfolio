@@ -29,14 +29,14 @@ export default function Home() {
             <span>Hello, I'm</span> Ozegbe Emmanuel
           </Heading>
           <Paragraph>
-           I'm a <ParagraphHighlight>results-driven</ParagraphHighlight> Frontend Engineer with
-            <ParagraphHighlight> experience </ParagraphHighlight> in frontend development and  backend integrations. 
-            My <ParagraphHighlight>expertise</ParagraphHighlight> includes <ParagraphHighlight>HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Next.js,</ParagraphHighlight>.
-           I am committed to
-            <ParagraphHighlight> creating and optimizing  </ParagraphHighlight>
-            user-friendly web solutions and interactions,
-            <ParagraphHighlight> helping</ParagraphHighlight> organizations achieve their goals 
-            <ParagraphHighlight> effectively.</ParagraphHighlight>.
+           I'm a <ParagraphHighlight>results-driven</ParagraphHighlight> Backend Software Engineer
+            <ParagraphHighlight> with experience </ParagraphHighlight> in building scalable architecture
+          and high-concurrency systems. I excel at designing <ParagraphHighlight> my expertise</ParagraphHighlight> includes <ParagraphHighlight>resilient RESTful APIs,</ParagraphHighlight>.
+           modelling, complex relationships and 
+            <ParagraphHighlight> integrating  </ParagraphHighlight>
+            integrating secure payment workflows
+            <ParagraphHighlight>  With deep expertise across</ParagraphHighlight> Node.js, PostgreSQL, and Redis
+            <ParagraphHighlight> I build the reliable infrastructure that powers seamless user experiences effectively.</ParagraphHighlight>.
           </Paragraph>
           <MenuLink to="/work">
             <Button>
